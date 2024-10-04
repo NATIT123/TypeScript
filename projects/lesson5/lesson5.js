@@ -1,4 +1,4 @@
-const name = 'Eric';
+const name1 = "Eric";
 
-console.log("length = ", name.length)
-console.log('upPerCasse = ', name.toUpperCase())
+console.log("length = ", name1.length);
+console.log("upPerCasse = ", name1.toUpperCase());
